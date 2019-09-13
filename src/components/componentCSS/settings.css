@@ -1,0 +1,14 @@
+.settings{
+    border: 3px solid #f1f1f1;
+    border-radius: 20px;
+    position: fixed;
+    top: 20%;
+    left: 30%;
+    height: 250px;
+    width: 400px;
+}
+
+.chngbr{
+    position: relative;
+    top: 10%;
+}

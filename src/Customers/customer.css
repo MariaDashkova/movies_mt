@@ -1,0 +1,39 @@
+.genre{
+    width: 200px;
+    color: white;
+    font-family: Calibri;
+
+}
+
+.select{
+    position: absolute;
+    left: 600px;
+    top: 0px;
+    font-family: Calibri;
+
+}
+
+.bar{
+    top: 50px;
+}
+.bar button{
+    color: white;
+    background: black;
+    width: 200px;
+    height: 38px;
+    border: 1px solid white;
+    font-family: Calibri;
+    font: 14px/1.3 sans-serif;
+
+}
+
+.frame{
+    position: absolute;
+    top: 5%;
+    width: 1000px;
+    left: 15%;
+    font-family: Calibri;
+
+}
+
+
